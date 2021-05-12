@@ -1,1 +1,1 @@
-//
+Photo-based Mask Detection system. Returns 0 and label "masked" if masked, returns 1 and label "unmasked" if no mask is identified. 
